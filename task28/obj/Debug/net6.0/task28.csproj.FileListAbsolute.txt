@@ -1,0 +1,15 @@
+D:\GeekBrains\С#\lesson4\task28\obj\Debug\net6.0\task28.csproj.AssemblyReference.cache
+D:\GeekBrains\С#\lesson4\task28\obj\Debug\net6.0\task28.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\С#\lesson4\task28\obj\Debug\net6.0\task28.AssemblyInfoInputs.cache
+D:\GeekBrains\С#\lesson4\task28\obj\Debug\net6.0\task28.AssemblyInfo.cs
+D:\GeekBrains\С#\lesson4\task28\obj\Debug\net6.0\task28.csproj.CoreCompileInputs.cache
+D:\GeekBrains\С#\lesson4\task28\bin\Debug\net6.0\task28.exe
+D:\GeekBrains\С#\lesson4\task28\bin\Debug\net6.0\task28.deps.json
+D:\GeekBrains\С#\lesson4\task28\bin\Debug\net6.0\task28.runtimeconfig.json
+D:\GeekBrains\С#\lesson4\task28\bin\Debug\net6.0\task28.dll
+D:\GeekBrains\С#\lesson4\task28\bin\Debug\net6.0\task28.pdb
+D:\GeekBrains\С#\lesson4\task28\obj\Debug\net6.0\task28.dll
+D:\GeekBrains\С#\lesson4\task28\obj\Debug\net6.0\refint\task28.dll
+D:\GeekBrains\С#\lesson4\task28\obj\Debug\net6.0\task28.pdb
+D:\GeekBrains\С#\lesson4\task28\obj\Debug\net6.0\task28.genruntimeconfig.cache
+D:\GeekBrains\С#\lesson4\task28\obj\Debug\net6.0\ref\task28.dll
